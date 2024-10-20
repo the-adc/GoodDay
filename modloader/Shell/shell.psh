@@ -1,0 +1,39 @@
+const float4 scolor : register(c0);
+const float3 light : register(c1);
+const float2 blur : register(c2);
+sampler sColor : register(s0);
+sampler sVelocity : register(s1);
+
+struct P_IN
+{
+	float4 pos : POSITION0;
+	float3 norm : TEXCOORD0;
+	float3 viewdir : TEXCOORD1;
+};
+
+float4 color(P_IN In) : COLOR0
+{
+	const float3 norm = normalize(In.norm);
+	const float3 view = normalize(In.viewdir);
+
+	const float norm_dot = dot(norm, light);
+	const float ref_dot = -dot(light, reflect(view, norm));
+	const float fresnel = dot(view, -norm) - 1.0;
+
+	return float4(scolor.rgb * (norm_dot * 0.5 + 0.5) * (norm_dot * 0.5 + 0.5) + (fresnel * fresnel * 0.75 + 0.25) * pow(max(ref_dot, 0.0), 25.0) * scolor.a, 1.0);
+}
+
+float4 velocity(P_IN In) : COLOR0
+{
+	return float4(In.viewdir, 1.0);
+}
+
+float4 render(const float2 tex : TEXCOORD0) : COLOR0
+{
+	float4 result = 0.0;
+	float4 velocity = tex2D(sVelocity, tex);
+	clip(velocity.a - 0.1);
+	for (float i = -0.5; i <= 0.5; i += 0.1)
+		result += tex2D(sColor, tex + velocity * i * blur * 0.5);
+	return float4(result.rgb / result.a, result.a / 11.0 * velocity.a);
+}

@@ -1,3 +1,18 @@
 ﻿userfiles/GTASAsf1.b
 userfiles/GTASAsf2.b
 cleo.log
+modloader/GPS Redux/SA.GPS.LOG.txt
+modloader/modloader.log
+scripts/RepairGTA.log
+/text
+*.gxt
+/ReadMe
+installscript.vdf
+ogg.dll
+/stream.ini
+eax.dll
+/anim
+/audio
+/data
+/models
+*.log

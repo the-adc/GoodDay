@@ -1,0 +1,18 @@
+// bullethole_weapon.json
+//	weap id	size
+{
+	"22":	0.75,	// PISTOL
+	"23":	0.75,	// PISTOL_SILENCED
+	"24":	1.0,	// DESERT_EAGLE
+	"25":	0.5,	// SHOTGUN
+	"26":	0.5,	// SAWNOFF
+	"27":	0.5,	// SPAS12
+	"28":	0.75,	// MICRO_UZI
+	"29":	0.75,	// MP5
+	"30":	1.0,	// AK47
+	"31":	1.0,	// M4
+	"32":	0.75,	// TEC9
+	"33":	1.25,	// COUNTRYRIFLE
+	"34":	1.5,	// SNIPERRIFLE
+	"38":	1.5	// MINIGUN
+}

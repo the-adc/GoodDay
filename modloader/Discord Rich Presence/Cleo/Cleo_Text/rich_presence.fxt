@@ -1,0 +1,63 @@
+WTDLVL0 Safe
+WTDLVL1 ☆
+WTDLVL2 ☆☆
+WTDLVL3 ☆☆☆
+WTDLVL4 ☆☆☆☆
+WTDLVL5 ☆☆☆☆☆
+WTDLVL6 ☆☆☆☆☆☆
+
+SAMPST0 None
+SAMPST1 Wait Connect
+SAMPST2 Await Join
+SAMPST3 Connected
+SAMPST4 Restarting
+SAMPST5 Disconnected
+
+WEAP_0 Fist
+WEAP_1 Brass Knuckles
+WEAP_2 Golf Club
+WEAP_3 Night Stick
+WEAP_4 Knife
+WEAP_5 Bat
+WEAP_6 Shovel
+WEAP_7 Pool Cue
+WEAP_8 Katana
+WEAP_9 Chainsaw
+WEAP_10 Purple Dildo
+WEAP_11 Dildo
+WEAP_12 Vibrator
+WEAP_13 Silver Vibrator
+WEAP_14 Flowers
+WEAP_15 Cane
+WEAP_16 Grenade
+WEAP_17 Teargas
+WEAP_18 Molotov
+WEAP_19 Unused
+WEAP_20 Unused
+WEAP_21 Unused
+WEAP_22 Colt 45
+WEAP_23 Silenced Pistol
+WEAP_24 Desert Eagle
+WEAP_25 Shotgun
+WEAP_26 Sawnoff-Shotgun
+WEAP_27 Combat Shotgun
+WEAP_28 Uzi
+WEAP_29 MP5
+WEAP_30 AK-47
+WEAP_31 M4
+WEAP_32 Tec-9
+WEAP_33 Country Rifle
+WEAP_34 Sniper Rifle
+WEAP_35 Rocket Launcher
+WEAP_36 Heat-Seeking RPG
+WEAP_37 Flamethrower
+WEAP_38 Minigun
+WEAP_39 Satchel Charges
+WEAP_40 Detonator
+WEAP_40 Spray Can
+WEAP_41 Fire Extinguisher
+WEAP_42 Camera
+WEAP_43 Night Vision
+WEAP_44 Thermal Goggles
+WEAP_45 Parachute
+WEAP_46 Fake Pistol
