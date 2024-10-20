@@ -1,0 +1,1201 @@
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 3.866241, -7.237732
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 3.875778, -7.321045
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 3.913177, -7.391724
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 3.923294, -7.477966
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 3.961472, -7.550720
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.000000, -7.624084
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.039230, -7.698914
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.050095, -7.789612
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.090378, -7.867188
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.131470, -7.946167
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.172852, -8.025757
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.215347, -8.107483
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.258774, -8.190979
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.303238, -8.276550
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.311600, -8.292603
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.311584, -8.292603
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.311584, -8.292542
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.311584, -8.292542
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.311584, -8.292603
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.311600, -8.292603
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.311584, -8.292542
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.311584, -8.292603
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.311600, -8.292542
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.311584, -8.292603
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.311584, -8.292603
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.311584, -8.292603
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.311584, -8.292603
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.311584, -8.292603
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.311600, -8.292542
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.311584, -8.292542
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.311600, -8.292542
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.311584, -8.292603
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.311600, -8.292603
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.281158, -8.307922
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.281158, -8.307922
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.250732, -8.323059
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.250732, -8.323059
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.220261, -8.338135
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.189743, -8.353088
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 4.097931, -8.397217
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 3.974823, -8.454590
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 3.788742, -8.537292
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 3.506424, -8.653748
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 3.028137, -8.827515
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 2.278442, -9.043884
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: 1.143738, -9.250244
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: -0.177216, -9.317139
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: -1.794846, -9.149170
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: -3.610840, -8.611877
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: -4.996414, -7.910156
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: -5.934906, -7.252319
+Sun Oct 20 18:02:28 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:28 2024 | Found contender.
+Sun Oct 20 18:02:28 2024 | 
+Sun Oct 20 18:02:28 2024 | Found mission objective blip.
+Sun Oct 20 18:02:28 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:28 2024 | DIR: -6.446457, -6.814636
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -6.544830, -6.722839
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -6.544830, -6.722839
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -6.544815, -6.722900
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -6.569183, -6.699768
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -6.569183, -6.699707
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -6.569183, -6.699707
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -6.569183, -6.699707
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -6.593414, -6.676575
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -6.593414, -6.676575
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -6.593430, -6.676514
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -6.593430, -6.676575
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -6.593414, -6.676514
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -6.593430, -6.676575
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -6.593414, -6.676514
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -6.544983, -6.722717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -6.447128, -6.814026
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -6.297943, -6.948364
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -6.120300, -7.100952
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.991119, -7.207275
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.860077, -7.311279
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.780579, -7.372498
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.753937, -7.392761
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.700470, -7.432922
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.673615, -7.452881
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646698, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646698, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646698, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646698, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646698, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646698, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646698, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646698, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646713, -7.472778
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646698, -7.472778
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646698, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646698, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646698, -7.472778
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646698, -7.472717
+Sun Oct 20 18:02:29 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:29 2024 | Found contender.
+Sun Oct 20 18:02:29 2024 | 
+Sun Oct 20 18:02:29 2024 | Found mission objective blip.
+Sun Oct 20 18:02:29 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:29 2024 | DIR: -5.646698, -7.472717
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Found contender.
+Sun Oct 20 18:02:30 2024 | 
+Sun Oct 20 18:02:30 2024 | Found mission objective blip.
+Sun Oct 20 18:02:30 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:30 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Found contender.
+Sun Oct 20 18:02:30 2024 | 
+Sun Oct 20 18:02:30 2024 | Found mission objective blip.
+Sun Oct 20 18:02:30 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:30 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Found contender.
+Sun Oct 20 18:02:30 2024 | 
+Sun Oct 20 18:02:30 2024 | Found mission objective blip.
+Sun Oct 20 18:02:30 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:30 2024 | DIR: -5.646698, -7.472717
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Found contender.
+Sun Oct 20 18:02:30 2024 | 
+Sun Oct 20 18:02:30 2024 | Found mission objective blip.
+Sun Oct 20 18:02:30 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:30 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Found contender.
+Sun Oct 20 18:02:30 2024 | 
+Sun Oct 20 18:02:30 2024 | Found mission objective blip.
+Sun Oct 20 18:02:30 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:30 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Found contender.
+Sun Oct 20 18:02:30 2024 | 
+Sun Oct 20 18:02:30 2024 | Found mission objective blip.
+Sun Oct 20 18:02:30 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:30 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Found contender.
+Sun Oct 20 18:02:30 2024 | 
+Sun Oct 20 18:02:30 2024 | Found mission objective blip.
+Sun Oct 20 18:02:30 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:30 2024 | DIR: -5.646713, -7.472778
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Found contender.
+Sun Oct 20 18:02:30 2024 | 
+Sun Oct 20 18:02:30 2024 | Found mission objective blip.
+Sun Oct 20 18:02:30 2024 | DestVec: 2473.879883, -1692.810059
+Sun Oct 20 18:02:30 2024 | DIR: -5.646713, -7.472717
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:30 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:31 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:32 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:33 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:34 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:34 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:34 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:37 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:38 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:39 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:40 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.
+Sun Oct 20 18:02:41 2024 | Looking for mission objective blip.

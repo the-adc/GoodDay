@@ -1,0 +1,29 @@
+v4.1.7
+Open Limit Adjuster = true
+
+Mod: Language = 2
+Mod: Enabled = true 
+Mod: SAMPdisadvantage = true 
+System: ProcessPriority = 5
+Graphics: ForceAnisotropic = true 
+Graphics: Anisotropic = 8
+
+Done read ini on game init
+
+System: StreamMemory = 2048
+System: SkipShutdown = true 
+Graphics: NoMotionBlur = true 
+Graphics: NoHeatEffect = true 
+Graphics: NoNitroBlur = true 
+Graphics: Fix2DGunflash = true 
+Graphics: TaxiLights = true 
+Gameplay: ParaLandingFix = true 
+Gameplay: NoWheelTurnBack = true 
+Gameplay: EnableTrainCams = true 
+Gameplay: RandWheelDettach = true 
+Gameplay: HostileGangs = true 
+Gameplay: GetOffJetpackOnAir = true 
+Audio: SirenOnWithoutDriver = true 
+
+Done read ini on first frame
+
