@@ -25,5 +25,3 @@ HornsThreshold = 2000
 BumpModelStart = 15465
 BumpModelEnd = 15473
 SearchBumpFramesDelay = 30
-Fixing ground stuck
-FIXED
