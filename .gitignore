@@ -4,8 +4,6 @@ cleo.log
 modloader/GPS Redux/SA.GPS.LOG.txt
 modloader/modloader.log
 scripts/RepairGTA.log
-/text
-*.gxt
 /ReadMe
 installscript.vdf
 ogg.dll
